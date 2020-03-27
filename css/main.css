@@ -350,3 +350,11 @@ p.second__one {
     margin-bottom: 15px;
   }
 }
+
+/* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+      .nav-links {
+        display: none;
+      }
+    }
+
